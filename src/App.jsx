@@ -1,13 +1,15 @@
 //import { useState } from "react";
 import { Routes, Route } from "react-router";
 import HomePage from "./pages/HomePage";
+import CheckoutPage from "./pages/CheckoutPage";
+
 import "./App.css";
 
 function App() {
   return (
     <Routes>
       <Route path="/" element={<HomePage />} />
-      <Route path="checkout" element={<button>HI</button>} />
+      <Route path="checkout" element={<CheckoutPage />} />
     </Routes>
   );
 }
