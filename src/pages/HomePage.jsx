@@ -1,10 +1,11 @@
+import { Header } from "../components/Header";
 import "./Homepage.css";
-import "./header.css";
 
 function HomePage() {
   return (
     <>
       <title>Ecommerce Project</title>
+      <Header />
       <div className="header">
         <div className="left-section">
           <a href="/" className="header-link">
