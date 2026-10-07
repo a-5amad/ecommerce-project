@@ -4,6 +4,11 @@ import "./checkout-header.css";
 function CheckoutPage() {
   return (
     <>
+      <link
+        rel="icon"
+        type="image/svg+xml"
+        href="./public/images/favicons/cart-favicon.png"
+      />
       <title>Checkout</title>
       <div className="checkout-header">
         <div className="header-content">

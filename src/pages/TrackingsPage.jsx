@@ -4,6 +4,11 @@ import "./TrackingsPage.css";
 function TrackingsPage() {
   return (
     <>
+      <link
+        rel="icon"
+        type="image/svg+xml"
+        href="./public/images/favicons/tracking-favicon.png"
+      />
       <title>Tracking</title>
       <Header />
 
