@@ -7,7 +7,7 @@ function HomePage() {
       <link
         rel="icon"
         type="image/svg+xml"
-        href="./public/images/favicons/home-favicon.png"
+        href="./images/favicons/home-favicon.png"
       />
       <title>Ecommerce Project</title>
       <Header />

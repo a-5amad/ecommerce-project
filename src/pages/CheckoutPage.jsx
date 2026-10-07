@@ -7,7 +7,7 @@ function CheckoutPage() {
       <link
         rel="icon"
         type="image/svg+xml"
-        href="./public/images/favicons/cart-favicon.png"
+        href="./images/favicons/cart-favicon.png"
       />
       <title>Checkout</title>
       <div className="checkout-header">

@@ -7,7 +7,7 @@ function TrackingsPage() {
       <link
         rel="icon"
         type="image/svg+xml"
-        href="./public/images/favicons/tracking-favicon.png"
+        href="./images/favicons/tracking-favicon.png"
       />
       <title>Tracking</title>
       <Header />
